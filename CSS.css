@@ -1,12 +1,9 @@
-h1
-{
-	color: red;
-}
 ul
 {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	/*background-image: url("A.jpeg");*/
 	background-color: black;
 	overflow: hidden;
 	/*position: fixed;*/
@@ -14,6 +11,12 @@ ul
 .HOR
 {
 	float: left;
+	opacity: 0.5;
+}
+.HORE
+{
+	float: right;
+	opacity: 0.5;
 }
 li a
 {
@@ -41,4 +44,16 @@ body
 .VER
 {
 	width: 200px;
+}
+.slider-img
+{
+	float: center;
+	opacity: 0.3;
+}
+table
+{
+	border: 3px blue solid;
+	background-image: url("A.jpeg");
+	box-shadow: 6px 6px 6px black;
+	
 }
