@@ -11,7 +11,7 @@ ul
 	overflow: hidden;
 	/*position: fixed;*/
 }
-li
+.HOR
 {
 	float: left;
 }
@@ -34,3 +34,11 @@ height: 50px;
 width: 100px;
 }
 
+body
+{
+  background-image: url("criss-cross.jpg");
+}
+.VER
+{
+	width: 200px;
+}
