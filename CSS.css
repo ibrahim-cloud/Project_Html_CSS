@@ -4,7 +4,7 @@ ul
 	margin: 0;
 	padding: 0;
 	/*background-image: url("A.jpeg");*/
-	background-color: black;
+	background-color: white;
 	overflow: hidden;
 	/*position: fixed;*/
 }
@@ -56,4 +56,8 @@ table
 	background-image: url("A.jpeg");
 	box-shadow: 6px 6px 6px black;
 	
+}
+.HOREE
+{
+	colore: white;
 }
